@@ -109,3 +109,15 @@ footer{
     color:#F15B31;
     font-weight: 700;
 }
+
+.hidden{
+    display: none;
+}
+
+.visible{
+    position: relative;
+    z-index: 3;
+    top: 220px;
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
